@@ -3,4 +3,4 @@
 
 ## Book App.
 
-![Alt text](book-app.png "book-app")
+![Book App](images/book-app.png)
